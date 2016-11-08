@@ -10,6 +10,7 @@ namespace GitTestBranch
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Dette er en test");
         }
     }
 }
